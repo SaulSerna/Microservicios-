@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #333;
+    background-color: #FFEEDB;  
+    font-family: 'Comic Sans MS'  
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+a {
+    color: rgba(0, 0, 0, 0.5); /* Cambia el color a negro translúcido */
+    transition: color 0.3s ease; /* Agrega una transición suave al cambiar el color */
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    margin: auto;
+
+}
+
+a:hover {
+    color: rgb(255, 255, 255); /* Cambia el color a negro sólido al pasar el mouse */
+    background-color: #5a6268;
+    margin: 0 auto;
+}
+
+table{
+    margin-left: 45%;    
+}
+
+th {
+    background-color: #AA8F66;
+}
+
+th, td {    
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #929292; /* Cambia el color del borde a negro */
+}
+
+tr{
+    background-color: white;
+}
+
+#Regre{
+    background-color: brown;
+    color: white;
+    border-radius: 12px;
+
+}

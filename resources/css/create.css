@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #FFEEDB;   
+    color: black; 
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Comic Sans MS'
+}
+
+#formulario {
+    background-color: #ED9B40;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: auto;  
+    font-family: 'Comic Sans MS'  
+}
+
+.iform {
+    margin-bottom: 20px;
+}
+
+.iform label {
+    display: block;
+    margin-bottom: 5px;
+    font-family: 'Comic Sans MS'
+}
+
+.iform input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #AA8F66;
+}
+
+.iset {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #AA8F66;
+    background-color: #FFEEDB;
+    font-family: 'Comic Sans MS'
+}
+
+.iset:hover {
+background-color: #AA8F66;
+}
+
+a {
+    color: white; /* Cambia el color a negro translúcido */
+    transition: color 0.3s ease; /* Agrega una transición suave al cambiar el color */
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    margin: auto;
+    background-color: black;
+    font-family: 'Comic Sans MS'
+}
+
+a:hover {
+    color: rgb(255, 255, 255); /* Cambia el color a negro sólido al pasar el mouse */
+    background-color: #495057;
+    margin: 0 auto;
+}
+
+.iform select {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.iform label {
+    display: block;
+    margin-top: 5px;
+}
+
+#REG{
+    font-family: 'Comic Sans MS';
+    background-color: brown;
+    color: white;
+    border-radius: 12px;
+
+}
+
+#Primera1{
+    margin-left: 43%;
+    border-radius: 12px; 
+    font-family: 'Comic Sans MS';
+    background-color: brown;
+    color: white;
+}
+
+#Primera2{
+    margin-left: 0%;
+    border-radius: 12px; 
+    font-family: 'Comic Sans MS';
+    background-color: brown;
+    color: white;
+}
+
+#Imghome{
+    margin-top: auto;
+    margin-left: 35%;
+    width: 30%;
+}
